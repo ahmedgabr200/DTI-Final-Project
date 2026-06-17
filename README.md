@@ -12,7 +12,7 @@
   - [6️⃣ Model Deployment](#6-model-deployment)
 - [📈 Results & Performance](#results--performance)
 - [🚀 Future Work](#future-work)
-- [📬 Contact](#contact)
+
 
 ---
 
